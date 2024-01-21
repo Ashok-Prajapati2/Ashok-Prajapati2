@@ -1,6 +1,6 @@
 ## Hey Techie, you can call me Ashok 👋
 
-I'm Eunice Adewusi, an ardent django-Developer and currintly studying data science. I'm passionate about using \*codes\* to solve \*real life\* problems; thereby creating a sustainable world for all.
+I'm ASHOK KUMAR, an ardent django-Developer and currintly studying data science. I'm passionate about using \*codes\* to solve \*real life\* problems; thereby creating a sustainable world for all.
 
 :mailbox: Want to connect with me?
 
