@@ -45,7 +45,5 @@ I'm ASHOK KUMAR, an ardent django-Developer and currintly studying data science.
 #### Github Stats 😁
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashok-Prajapati2&count_private=true&theme=dark&hide=contribs,issues)
 
-#### Wakatime Stats 🚶🏾‍♂️ 
-![Wakatime Stats](https://wakatime.com/share/@f05dbbcc-977a-4174-affa-e3903e02de84/76eff073-16c2-4bc8-a571-83bcfa6614ba.svg)
 
 </details>
