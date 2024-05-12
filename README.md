@@ -39,9 +39,6 @@ I'm ASHOK KUMAR, an ardent django-Developer and currintly studying data science.
   More Info 😉 
 </summary>
 
-#### Coderank Stats 😅
- ![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=climiradiroberts) 
-----
 #### Github Stats 😁
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashok-Prajapati2&count_private=true&theme=dark&hide=contribs,issues)
 
