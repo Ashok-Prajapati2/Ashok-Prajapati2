@@ -31,7 +31,8 @@ src="/ASHOK/home2.gif">
 
 ## 🌐 Socials:
 
-[![X Badge](https://img.shields.io/badge/-Ashok0p_-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://x.com/ashok0p ) [![Linkedin Badge](https://img.shields.io/badge/-Ashok-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ashok-kumar/ ) [![Instagram Badge](https://img.shields.io/badge/-Ashok-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashok__prajapat_i)
+[![X Badge](https://img.shields.io/badge/-Ashok0p_-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://x.com/ashok0p )             [![Linkedin Badge](https://img.shields.io/badge/-Ashok-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ashok-kumar/ )                  [![Instagram Badge](https://img.shields.io/badge/-Ashok-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashok__prajapat_i)
+<br>
 <br>
 
 ## 💻 Languages and Tools ⚡️
