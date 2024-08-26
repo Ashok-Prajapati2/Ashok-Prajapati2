@@ -17,7 +17,7 @@ I'm ardent Python Developer and currintly studying data science. I'm passionate 
 
 - ⚡ Fun fact: I like participating in playing & eating chocolates 🍫.
 
-- 📫 Reach me via: **ap86963163@gmail.com**
+- 📫 Reach me via: **[Mail](ap86963163@gmail.com)**
 
 - 💬 Ask me about **Data science , Python**
 
