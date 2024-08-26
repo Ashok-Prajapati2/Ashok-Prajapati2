@@ -48,7 +48,9 @@ src="/ASHOK/home2.gif">
 
 <details>
 <summary>
-  More Info 😉 
+
+  **More Info 😉** 
+  
 </summary>
 
 # 📊 GitHub Stats:
