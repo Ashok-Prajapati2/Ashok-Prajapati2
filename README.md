@@ -49,7 +49,7 @@ src="/ASHOK/home2.gif">
 <details>
 <summary>
 
- ## <span style="color: red;">More Info 😉</span>
+ ## <span style="color: blue;">More Info 😉</span>
 </summary>
 
 # 📊 GitHub Stats:
