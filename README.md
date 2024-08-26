@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=09F7DC&center=true&vCenter=true&width=432&height=25&lines=Hey+%2C+I'm+ASHOK+KUMAR+%F0%9F%91%8B;Welcome+to+My+Profile!+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=09F7DC&center=true&vCenter=true&width=432&height=28&lines=Hey+%2C+I'm+ASHOK+KUMAR+%F0%9F%91%8B;Welcome+to+My+Profile!+%F0%9F%A4%97)](https://git.io/typing-svg)
 </h1> 
 
 **⚝   I'm an ardent Python developer 🐍 and currently diving into data science 📊. I love using code to solve real-life problems 🔧 and strive to create a more sustainable world 🌍. If you're into innovative solutions and cutting-edge technology 💻, you're in the right place!**
