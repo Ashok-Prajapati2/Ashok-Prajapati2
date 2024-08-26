@@ -2,10 +2,8 @@
 
 I'm ASHOK KUMAR, an ardent django-Developer and currintly studying data science. I'm passionate about using \*codes\* to solve \*real life\* problems; thereby creating a sustainable world for all.
 
-:mailbox: Want to connect with me?
 
- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-<!-- [![X Badge](https://img.shields.io/badge/-TechieClimi_-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://x.com/TechieClimi_) [![Linkedin Badge](https://img.shields.io/badge/-Eunice_Adewusi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euniceadewusic/) [![Instagram Badge](https://img.shields.io/badge/-climiradiroberts-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/climiradiroberts) [![Facebook Badge](https://img.shields.io/badge/-Climiradi_Roberts-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/climiradi) -->
+[![X Badge](https://img.shields.io/badge/-TechieClimi_-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white)](https://x.com/TechieClimi_) [![Linkedin Badge](https://img.shields.io/badge/-Eunice_Adewusi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euniceadewusic/) [![Instagram Badge](https://img.shields.io/badge/-climiradiroberts-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/climiradiroberts) [![Facebook Badge](https://img.shields.io/badge/-Climiradi_Roberts-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/climiradi)
 
 - 💻 I’m currently working on persnal projects.
 - 💞️ I’m looking to collaborate on different projects on website development, particularly django.
