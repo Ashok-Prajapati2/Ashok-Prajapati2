@@ -33,13 +33,15 @@ I'm ardent Python Developer and currintly studying data science. I'm passionate 
 
 #### Work 💼
 
-- :email: ap86963163@gmail.com
-- Portfolio: .......
+- Mail: ap86963163@gmail.com
+- Portfolio: comming soon ....
 
 #### Profile Visits 🧑‍🤝‍🧑
 
 ![visitors](https://ashok-prajapati2.github.io/project-resume/)
 
+## GSSOC(24) Badges 🪶:
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="85px" height="85px" />
 
 <details>
 <summary>
