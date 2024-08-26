@@ -1,12 +1,8 @@
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=09F7DC&center=true&width=500&lines=Hey+%2C+I'm+ASHOK+KUMAR+%F0%9F%91%8B;Welcome+to+My+Profile!+%F0%9F%A4%97)](https://git.io/typing-svg)
-
 </h1> 
-<h3 align="start"></h3>
 I'm ardent Python Developer and currintly studying data science. I'm passionate about using <b>codes</b> to solve <b>real life problems</b>; thereby creating a sustainable world for all.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 # 💫 About Me:
