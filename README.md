@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="450" style="margin-top: 10px; margin-bottom: 10px; transform: scaleX(1);" 
+<img align="right" alt="Coding" width="450" style="margin-top: 10px; margin-bottom: 10px; transform: scaleY(-1);" 
 src="/ASHOK/home.gif">
 
 - 💻 I’m currently working on persnal projects.
