@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=09F7DC&center=true&width=502&lines=Hey+%2C+I'm+ASHOK+KUMAR+%F0%9F%91%8B;Welcome+to+My+Profile!+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=09F7DC&center=true&width=802&lines=Hey+%2C+I'm+ASHOK+KUMAR+%F0%9F%91%8B;Welcome+to+My+Profile!+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 </h1> 
 
