@@ -53,15 +53,14 @@ I'm ardent Python Developer and currintly studying data science. I'm passionate 
 
 ![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
 <a href="https://github.com/Hemu21">
-![](https://github-readme-stats.vercel.app/api?username=Hemu21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu21&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hemu21&theme=blue-green&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemu21&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemu21&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemu21&theme=blue_green&utcOffset=8)
+![](https://github-readme-stats.vercel.app/api?username=Ashok-Prajapati2&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Prajapati2&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashok-Prajapati2&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashok-Prajapati2&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashok-Prajapati2&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashok-Prajapati2&theme=blue_green&utcOffset=8)
 <br/>
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ashok-Prajapati2&count_private=true&theme=dark&hide=contribs,issues)
-
 
 </details>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
