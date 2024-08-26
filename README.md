@@ -68,6 +68,7 @@ I'm ardent Python Developer and currintly studying data science. I'm passionate 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Ashok-Prajapati2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 💰 You can help me by Sponsor
 [![Sponser Me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black)](https://github.com/sponsors/Ashok-Prajapati2) <br/>
 </details>
 
