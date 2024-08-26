@@ -43,12 +43,15 @@ I'm ardent Python Developer and currintly studying data science. I'm passionate 
 ## GSSOC(24) Badges 🪶:
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="85px" height="85px" />
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ashok-Prajapati2&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
 <details>
 <summary>
   More Info 😉 
 </summary>
 
-#### Github Stats 😁
 # 📊 GitHub Stats:
 
 ![](https://komarev.com/ghpvc/?username=Ashok-Prajapati21&abbreviated=true) <br/>
