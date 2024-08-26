@@ -22,7 +22,7 @@ src="/ASHOK/home2.gif">
 
 - ⚡ Fun fact: I like participating in playing & eating chocolates 🍫.
 
-- 📫 Reach me via: **[Mail](ap86963163@gmail.com)**
+- 📫 Reach me via: **[Mail](https://ap86963163@gmail.com)**
 
 - 💬 Ask me about **Data science , Python**
 
