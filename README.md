@@ -51,8 +51,8 @@ I'm ardent Python Developer and currintly studying data science. I'm passionate 
 #### Github Stats 😁
 # 📊 GitHub Stats:
 
-![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
-<a href="https://github.com/Hemu21">
+![](https://komarev.com/ghpvc/?username=Ashok-Prajapati21&abbreviated=true) <br/>
+<a href="https://github.com/Ashok-Prajapati2">
 ![](https://github-readme-stats.vercel.app/api?username=Ashok-Prajapati2&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-Prajapati2&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashok-Prajapati2&theme=blue-green&hide_border=true)
