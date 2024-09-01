@@ -73,7 +73,7 @@ src="/ASHOK/home2.gif">
 
 ## 💰 You can help me by Sponsor
 [![Sponser Me](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#black)](https://github.com/sponsors/Ashok-Prajapati2) <br/>
-</details>
 
 <h1 align="center">✨ Fork to create your masterpiece, and star ⭐ if it inspires you. Let's build something extraordinary together! 😉 </h1>
+</details>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
