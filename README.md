@@ -42,7 +42,7 @@ src="/ASHOK/home2.gif">
 [![Instagram Badge](https://img.shields.io/badge/-Ashok-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashok__prajapat_i)
 <br>
 ## GSSOC(24) Badges 🪶:
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="85px" height="85px" />
+<img src="https://github.com/Ashok-Prajapati2/Ashok-Prajapati2/blob/main/ASHOK/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-04.png" width="85px" height="85px" />
 
 ## 🏆 GitHub Trophies
 
